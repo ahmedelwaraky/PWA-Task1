@@ -1,0 +1,14 @@
+.one{
+    background-image: url(../PWA/image/pexels-natalya-rostun-13207067.jpg);
+    background-position: center , center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.overlay{
+background-color: rgba(0, 0, 0, 0.693);
+position: absolute;
+height: 100vh;
+width: 100%;
+
+}
